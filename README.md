@@ -1,4 +1,4 @@
-# tools
+# Tools
 Scripts and tools
 
 ## scan2ftp.sh
